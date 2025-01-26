@@ -17,7 +17,7 @@ A simple weather app built with HTML, CSS, and JavaScript. It fetches real-time 
 
 ## How to Run Locally
 
-1. Clone this repository: `git clone https://github.com/MajidShwkah/Weather-App.git`
+1. Clone this repository: `git clone https://github.com/MajidShwkah/weather-app.git`
 2. Open `index.html` in your browser.
 
 ## Live Demo
